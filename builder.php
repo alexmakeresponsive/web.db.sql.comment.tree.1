@@ -1,3 +1,5 @@
+<?php
+
 $sql = "SELECT * FROM comment WHERE post_id = 1;";
 
 $count = 0;
